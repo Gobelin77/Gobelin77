@@ -6,7 +6,7 @@
       I'm the owner of the Ratelia Labs and Solo-AI GitHub repositories, and most recently, Solo-Qbit.
 - 💞️ Founder of Ratelia Labs (Ratelia Ltd) 
 - 📫 github ratelia labs and solo-ai
-- 👀 I’m interested in Short and very high waves and Ham radio Rx only  
+- 👀 I’m interested in Short and very long waves and Ham radio Rx only  
      Elon Musk vision is my way but I can also mention Steve Wozniak, Steve Jobs, Larry Wall, Linus Torvalds, Guido van Rossum, Margaret Hamilton, Tim Berners-Lee...
 
      “Small machine. Serious brain.”
